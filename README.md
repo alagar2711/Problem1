@@ -1,3 +1,3 @@
-# Problem1
+# Problem-1
 Hi Team,
       Here, I Completed the task where I used the figma 
